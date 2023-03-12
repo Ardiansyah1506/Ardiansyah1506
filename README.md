@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Front End Developer<br>👯 I’m looking to collaborate on Web Developer<br>🌱 I’m currently learning Javacript Php And Html Css<br>⚡ Fun fact<br>I am a second-semester student at Dian Nuswantoro University. I'm Also Learning C++
+🔭 I’m a Front End Developer<br>👯 I’m looking to collaborate on Web Developer<br>🌱 I’m currently learning Javacript Php And Html Css<br>⚡ Fun fact<br>I am a second-semester student at Dian Nuswantoro University.
 
 
 ## 🌐 Socials:
