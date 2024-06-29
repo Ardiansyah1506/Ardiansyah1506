@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Front End Developer<br>👯 I’m looking to collaborate on Web Developer<br>🌱 I’m currently learning Javacript Php And Html Css<br>
+🔭 I’m a Programmer<br>👯 I’m looking to collaborate on Web Developer<br>🌱 I’m currently learning Javacript Php And Html Css<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#0269) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ardiansyah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fauziardiansyah42) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zii.1.5) 
